@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="branding/ember%20mobile.png" alt="Ember Mobile" width="320"/>
+  <img src="https://raw.githubusercontent.com/josephkennedy93jk-dotcom/ember-mobile-customer-intelligence/main/branding/ember%20mobile.png" alt="Ember Mobile" width="320"/>
 </p>
 
 <h1 align="center">Ember Mobile — Customer Churn Analytics</h1>
