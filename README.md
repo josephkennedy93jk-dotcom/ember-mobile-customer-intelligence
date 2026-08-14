@@ -24,6 +24,8 @@
 
 Ember Mobile is a mobile network operator working from a rebranded real-world telecom customer dataset (the underlying data is synthetic, seeded from an anonymised public telecom source and remodelled to represent the Ember Mobile business).
 
+Please read this summary slide deck for the project: [Ember Mobile Churn Deck](https://github.com/josephkennedy93jk-dotcom/ember-mobile-customer-intelligence/blob/main/Ember_Mobile_Churn_Deck.pdf)
+
 When the engagement began, Ember Mobile had operational customer records only — no analytics layer, no dashboards, no derived metrics, and no view of subscriber health beyond raw billing extracts. This project delivered the analytics stack end-to-end:
 
 - Cleaned and modelled a MySQL data warehouse from the raw CRM extract
