@@ -86,7 +86,7 @@ Data generation and preparation scripts:
 The warehouse is a star schema in MySQL — two fact tables and four dimensions, one row per customer per table, joined on `customerID`. This structure supports both the BI dashboards and downstream modelling from a single trusted source.
 
 <p align="center">
-  <img src="Power%20BI%20star%20Schema%20from%20source.png" alt="Ember Mobile star schema" width="720"/>
+  <img src="BI-Star-Schema.png" alt="Ember Mobile Star Schema" width="700">
 </p>
 
 | Layer | Tables |
