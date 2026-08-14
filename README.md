@@ -34,6 +34,8 @@ When the engagement began, Ember Mobile had operational customer records only �
 - Applied natural language sentiment analysis to customer disconnection reasons
 - Produced a three-tier retention playbook now guiding the intervention programme
 
+ ![Data Pipeline](pipeline.png)
+
 ---
 
 ## 2. Executive Summary
@@ -120,6 +122,8 @@ Ember Mobile had no BI capability prior to this engagement. The dashboard was bu
 - Segment cuts — churn by Contract, Payment Method, Internet Service and tenure band
 - Risk-tier view — customer distribution across High / Medium / Low with stacked recommended actions
 - Sentiment view — reason category and sentiment breakdown for departing customers
+
+  ![Ember Mobile KPI Dashboard](ember-mobile-main-KPI-dashboard.png)
 
 **Key DAX measures**
 
