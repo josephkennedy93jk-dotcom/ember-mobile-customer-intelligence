@@ -230,7 +230,7 @@ Deliverables:
 Every customer is placed into a risk tier based on their predicted churn probability. The tiers drive the retention playbook — treatment intensity scales with tier.
 
 <p align="center">
-  <img src="risk%20tier%20churn%20BI.png" alt="Risk tier segmentation" width="820"/>
+  <img src="risk-tier-churn.png" alt="Risk Tier Churn" width="600">
 </p>
 
 | Tier | Customers | Share | Programme role |
@@ -249,7 +249,7 @@ Recommended actions are matched to each customer's profile and can be combined �
 A HuggingFace transformer was applied to the free-text disconnection reasons captured in the CRM to distinguish *why* customers leave from *how they feel* about leaving. The distinction matters — an angry leaver needs a relationship reset, a neutral leaver often just needs a better offer.
 
 <p align="center">
-  <img src="sentiment%20analysis%20python.png" alt="Sentiment analysis" width="820"/>
+  <img src="sentiment-analysis-python.png" alt="Sentiment Analysis" width="600">
 </p>
 
 **Findings**
