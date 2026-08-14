@@ -324,15 +324,35 @@ Telecom Churn Analysis/
 
 ---
 
-## 15. Deliverables
+## 15. Reccomendations to Ember Senior Leadership
 
-| Artefact | File |
-|---|---|
-| Executive slide deck | [`Ember_Mobile_Churn_Deck.pptx`](Ember_Mobile_Churn_Deck.pptx) |
-| Power BI dashboard | [`Ember Mobile Dash.pbix`](<Ember Mobile Dash.pbix>) |
-| Scored customer file | [`Ember_Churn_Scored.xlsx`](Ember_Churn_Scored.xlsx) |
-| Persisted model | [`ember_churn_xgb.pkl`](ember_churn_xgb.pkl) |
-| ML process reference | [`ML_Workflow_Playbook.docx`](ML_Workflow_Playbook.docx) |
+## Executive Recommendations
+
+The following recommendations are directed at Ember Mobile senior leadership. They are drawn from the churn drivers surfaced in this analysis and are intended as strategic areas to explore rather than prescriptive targets.
+
+### 1. Prioritise the early tenure window
+New customers are consistently the most likely to leave, yet retention effort tends to concentrate on long-standing accounts that are already stable. There is a clear opportunity to rebalance onboarding and early-life engagement — structured check-ins, proactive support, and a recognisable loyalty moment before the end of the first year — so that customers form a habit before the churn risk peaks.
+
+### 2. Move customers off rolling monthly contracts
+Month-to-month subscribers are structurally the most volatile segment of the base. A deliberate migration strategy toward longer-term contracts, supported by pricing incentives that protect margin, would materially reduce the size of the at-risk population without requiring any change to the underlying product.
+
+### 3. Investigate the fibre customer experience
+Fibre-optic customers churn at a noticeably higher rate than customers on other connection types, despite generating the strongest revenue per account. This points to a product or service-quality issue rather than a pricing one, and warrants a joint review with Network Operations covering installation experience, early-life fault rates, and support responsiveness before further fibre acquisition investment is committed.
+
+### 4. Reposition value-added services as retention tools
+Customers who take add-ons such as online security, technical support, and device protection are markedly stickier than those who do not. These products are behaving as retention levers, not just revenue lines. Leadership should consider bundling them by default into new contracts and offering trial periods to at-risk customers, rather than treating them as optional upsells.
+
+### 5. Reduce billing friction
+Payment method is a strong signal of churn risk, with customers on manual or less committed payment types leaving at higher rates. Encouraging a shift toward automated payment methods — through small incentives and a smoother switching journey — would reduce involuntary churn and remove a recurring source of customer effort.
+
+### 6. Operationalise churn prediction
+The analysis demonstrates that churn is predictable from a small set of customer attributes. The natural next step is to move from descriptive reporting into a production risk score that feeds directly into the retention team's day-to-day workflow, with clear thresholds for automated save offers versus human outreach. This shifts the operating model from reactive to preventative.
+
+### 7. Segment retention offers by customer value
+Not all at-risk customers are equally valuable to retain. A tiered save-offer framework — aligned to expected lifetime value rather than applied uniformly — would improve the return on retention spend and protect margin on the accounts that matter most.
+
+### Areas to explore further
+Deeper investigation is recommended in three areas: the drivers behind fibre dissatisfaction, the behavioural differences between customers on automatic and manual payment methods, and the interaction between contract length and add-on adoption. Each has the potential to unlock further retention gains beyond the actions listed above.
 
 ---
 
