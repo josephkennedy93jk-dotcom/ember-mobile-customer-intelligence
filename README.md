@@ -278,7 +278,7 @@ Notebook: [`Python Files/ember mobile ml.ipynb`](<Python Files/ember mobile ml.i
 Every customer is placed into a risk tier based on their predicted churn probability. The tiers drive the retention playbook — treatment intensity scales with tier.
 
 <p align="center">
-  <img src="Project%20Images/risk-tier-churn.png" alt="Risk Tier Churn" width="600">
+  <img src="Project%20Images/risk-churn.png" alt="Risk Tier Churn" width="600">
 </p>
 
 | Tier | Customers | Share | Programme role |
