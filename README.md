@@ -171,7 +171,7 @@ Ember Mobile had no BI capability prior to this engagement. The dashboard was bu
 - Risk-tier view — customer distribution across High / Medium / Low with stacked recommended actions
 - Sentiment view — reason category and sentiment breakdown for departing customers
 
-  ![Ember Mobile KPI Dashboard](ember-mobile-main-KPI-dashboard)
+![Ember Mobile KPI Dashboard](Project%20Images/ember-mobile-main-KPI-dashboard.png)
 
 **Key DAX measures**
 
