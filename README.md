@@ -297,7 +297,7 @@ Recommended actions are matched to each customer's profile and can be combined â
 A HuggingFace transformer was applied to the free-text disconnection reasons captured in the CRM to distinguish *why* customers leave from *how they feel* about leaving. The distinction matters â€” an angry leaver needs a relationship reset, a neutral leaver often just needs a better offer.
 
 <p align="center">
-  <img src="Project%20Images/sentiment-analysis-python.png" alt="Sentiment Analysis" width="600">
+  <img src="Project%20Images/sentiment-analysis.png" alt="Sentiment Analysis" width="600">
 </p>
 
 **Findings**
